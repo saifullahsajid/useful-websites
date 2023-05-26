@@ -1,10 +1,14 @@
 # Useful Websites
-## A collection of useful websites for IT professionals, including tutorials, resources, and tools.
+A collection of useful websites for IT professionals, including tutorials, resources, and tools.
+
+## Swift
+- [Point-Free](https://www.pointfree.co/) - Point-Free is a video series exploring functional programming and Swift.
 
 ## Design
 - [Wrap](https://wrap.so/) - Create beautiful, shareable screenshots with ease.
 - [Haikei](https://haikei.app/) - Generate unique SVG design assets.
 - [ColorSpectrum](https://colorspectrum.design/) - Create beautiful color palettes and apply them directly to any image, illustration, ui, gradient, and more.
+- [Tweetify](https://xsgames.co/tweetify/) - Generate beautiful quote images from Tweets and share them anywhere.
 
 ## Productivity
 - [Makerlog](https://getmakerlog.com/) - Makerlog is where makers & indie hackers build products in public.
