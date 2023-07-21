@@ -1,5 +1,5 @@
 # Useful Websites
-A collection of useful websites for IT professionals, including tutorials, resources, and tools.
+A collection of useful websites, tools, and tips for everyone.
 
 ## Swift
 - [Point-Free](https://www.pointfree.co/) - Point-Free is a video series exploring functional programming and Swift.
@@ -17,3 +17,6 @@ A collection of useful websites for IT professionals, including tutorials, resou
 
 ## Tips
 - [Standing Desk Usage](https://www.healthline.com/nutrition/6-tips-for-using-a-standing-desk) - 6 Tips to Use a Standing Desk Correctly.
+
+## Lifestyle
+- [Nomad List](https://nomadlist.com/) - Join a global community of remote workers living and traveling around the world.
